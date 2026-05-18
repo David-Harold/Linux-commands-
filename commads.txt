@@ -1,1 +1,2 @@
 # ALL YOUR COMMADS BELOW HERE
+ls -l shows files and there permissions
